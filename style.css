@@ -1,0 +1,131 @@
+html {
+	-webkit-font-smoothing: anti-antialiased;
+}
+
+body .heading {
+  color: #363636;
+  font-weight: normal;
+  font-style: Light;
+	font-size: 22px;
+}
+
+body .body {
+  font-weight: 300;
+}
+
+.strong, .term {
+  font-weight: normal;
+  font-style: Medium;
+}
+
+#editorContent {
+  padding: 80px 50px;
+  -webkit-overflow-scrolling: touch;
+}
+
+body {
+  letter-spacing: -0.5px;
+  text-shadow: 0 1px 1px rgba(255,255,255,0.3);
+	background: url("bg.png") ;
+  line-height: 1.5em;
+	font-family:  "Nitti WM2", Courier,"Heiti TC", monospace;
+	font-weight: 300;
+	font-style: Light;
+	font-size: 21px; 
+	color: #4f4f4f;
+}
+
+.tags {
+  font-style: Light;
+  font-weight: 300;
+}
+
+.tabs {
+	font-family:HalfWidthSpace;
+}
+.highlight {
+  background: red;
+}
+
+.code {
+	font-weight: 300;
+}
+
+.code, .codeblock > .content > .text {
+	background: rgb(90%,90%,90%);
+	font-weight: 300;
+}
+.blockquote {
+	font-style:oblique;
+	font-weight: 300;
+}
+
+.blockquote > .content > .lead.syntax,
+.unordered > .content > .lead.syntax,
+.ordered > .content > .lead.syntax,
+.heading > .content > .lead.syntax,
+.heading > .content > .trail.syntax   {
+	color: #787878;
+	font-size: Light;
+	font-weight: 300;
+}
+
+.headerLeadSyntaxText {
+	font-size: Light;
+	font-weight: 300;
+}
+
+.headerLeadSyntaxText:hover {
+	text-decoration:underline;
+	cursor: pointer;
+	font-size: Light;
+	font-weight: 300;
+}
+.htmltag {
+	color: #c04364;
+	font-weight: 300;
+}
+
+.mode {
+  font-weight: 300;
+  font-style: Light;
+  color: gray;
+}
+
+.htmltag-attributevalue {
+	font-weight: 300;
+	color: #14819c;
+}
+@font-face {
+	font-family: CourierFoldEllipse;
+	src: url('./fonts/CourierFoldEllipse.ttf');
+}
+.foldafter .content:after {
+	font-family: CourierFoldEllipse, Courier;
+	font-style:normal;
+	font-weight:normal;
+	content:" …";
+}
+.editorTopFold {
+	color: rgb(97%,97%,97%);
+	background: rgb(20%,20%,20%);
+}
+@font-face {
+	font-family: CourierBulletDone;
+	src: url('./fonts/CourierBulletDone.ttf');
+}
+@font-face {
+	font-family: CourierBulletNotDone;
+	src: url('./fonts/CourierBulletNotDone.ttf');
+}
+
+.ordered, .unordered {
+	font-weight: 300;
+}
+
+.unordered.todoMode .lead {
+	font-family:CourierBulletNotDone, Courier;
+}
+div[done].unordered.todoMode .lead {
+	font-family:CourierBulletDone, Courier;
+}
