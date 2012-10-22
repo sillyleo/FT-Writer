@@ -22,15 +22,14 @@ FT Writer uses the **Cousine** as default. It's [available from Google]().
 
 Nitti is a commercial font which can be [purchased here](http://www.boldmonday.com/en/nitti) (Buy Nitti Light). If you have **Nitti** installed you can enable **Nitti-mode**.
 
-
-# Install
+## Install
 
 1. Open your Terminal.app in Applications > Utilities.
 2. Paste the following command and press enter:
 	`git clone git://github.com/sillyleo/FT-Writer.git ~/Library/Containers/com.foldingtext.FoldingText/Data/Library/Application\ Support/FoldingText/Themes/User.fttheme`
 3. Restart FoldingText
 
-# Update
+## Update
 
 1. Open your Terminal.app in Applications > Utilities.
 2. Paste the following command and press enter:
@@ -38,13 +37,13 @@ Nitti is a commercial font which can be [purchased here](http://www.boldmonday.c
 3. And then `git pull`
 4. Restart FoldingText
 
-# Uninstall
+## Uninstall
 
 1. In Finder, press `command + shift + g`, paste the following path and press enter:
 	`~/Library/Containers/com.foldingtext.FoldingText/Data/Library/Application Support/FoldingText/Themes/`
 2. Remove the `User.fttheme` folder.
 
-# Enable Nitti Mode
+## Enable Nitti Mode
 
 1. Purchase Nitti
 2. In Finder, press `command + shift + g`, paste the following path and press enter:
@@ -52,10 +51,10 @@ Nitti is a commercial font which can be [purchased here](http://www.boldmonday.c
 3. Rename `style.css` into something like `style-cousine.css` and rename `style-nitti.css` into `style.css`
 4. Restart FoldingText
 
-# Contact
+## Contact
 
 If you have any questions please mention me on Twitter: [@sillyleo](http://twitter.com/sillyleo)
 
-# Special Thanks
+## Special Thanks
 
 Thanks to [@evenwu](http://twitter.com/evenwu) for some tips on Github and CSS.
