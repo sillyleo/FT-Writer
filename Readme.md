@@ -1,4 +1,4 @@
-# FT Writer
+# FT Writer 1.0
 
 FT Writer is a [FoldingText](http://www.foldingtext.com) theme based on [iA Writer](http://www.iawriter.com), featuring:
 
