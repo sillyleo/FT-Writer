@@ -23,11 +23,11 @@ FT Writer uses the **Cousine** as default. It's [available from Google]().
 Nitti is a commercial font which can be [purchased here](http://www.boldmonday.com/en/nitti) (Buy Nitti Light). If you have **Nitti** installed you can enable **Nitti-mode**.
 
 
-# Install
+# Install or Update
 
 1. Open your Terminal.app in Applications > Utilities.
 2. Paste the following command and press enter:
-	`git clone git://github.com/sillyleo/FT-Writer.git ~/Library/Containers/com.foldingtext.FoldingText/Data/Library/Application Support/FoldingText/Themes/User.fttheme`
+	`git clone git://github.com/sillyleo/FT-Writer.git ~/Library/Containers/com.foldingtext.FoldingText/Data/Library/Application\ Support/FoldingText/Themes/User.fttheme`
 3. Restart FoldingText
 
 # Uninstall
@@ -47,3 +47,7 @@ Nitti is a commercial font which can be [purchased here](http://www.boldmonday.c
 # Contact
 
 If you have any questions please mention me on Twitter: [@sillyleo](http://twitter.com/sillyleo)
+
+# Special Thanks
+
+Thanks to [@evenwu](http://twitter.com/evenwu) for some tips on Github and CSS.
