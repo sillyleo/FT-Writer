@@ -38,7 +38,6 @@ Nitti is a commercial font which can be [purchased here](http://www.boldmonday.c
 3. And then `git pull`
 4. Restart FoldingText
 
-
 # Uninstall
 
 1. In Finder, press `command + shift + g`, paste the following path and press enter:
