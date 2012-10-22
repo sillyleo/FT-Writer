@@ -15,8 +15,11 @@ body .heading {
   font-weight: bold;
 }
 
-.strong, .term, .code {
+.strong, .term, .code, .codeblock {
+  letter-spacing: -0.08em;
 	font-family:  "Nitti", "Cousine", Courier, "Heiti TC", monospace;
+  font-weight: bold;
+	font-style: Light;
 }
 
 
@@ -46,6 +49,13 @@ body .heading {
   font-weight: bold;
   font-style: Bold;
 }
+
+.strong, .term, .code, .codeblock {
+	font-family:  "Cousine", Courier,"Heiti TC", monospace;
+  font-weight: bold;
+}
+
+
 */
 
 
@@ -70,9 +80,6 @@ body .body {
   font-weight: normal;
 }
 
-.strong, .term, .code {
-  font-weight: bold;
-}
 
 #editorContent {
   padding: 80px 50px;

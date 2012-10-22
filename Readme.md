@@ -2,11 +2,11 @@
 
 FT Writer is a [FoldingText](http://www.foldingtext.com) theme based on [iA Writer](http://www.iawriter.com), featuring:
 
-- **Cousine** or **Nitti** modes
+- **Cousine** or **Nitti** mode
 - Fine-tuned line height for both fonts
 - Looks like iA Writer (duh)
 - Subtle CSS animation
-- Fixed line-height for Asian languages.(No jumping text)
+- Fixed line-height for Asian languages. (No more jumping text)
 
 FoldingText is a clever text productivity app, and iA Writer is the most beautiful one. I made a theme that makes FoldingText look like iA Writer
 
@@ -14,7 +14,7 @@ FoldingText is a clever text productivity app, and iA Writer is the most beautif
 
 ![Cousine Mode](http://d.pr/i/YO2P+)
 
-FT Writer uses the font **Cousine** as default, which is a free font [available from Google](). 
+FT Writer uses the **Cousine** as default. It's [available from Google](). 
 
 ## Nitti Mode
 
@@ -25,22 +25,22 @@ Nitti is a commercial font which can be [purchased here](http://www.boldmonday.c
 
 # Install
 
-1. Open Terminal.app in `Applications > Utilities`.
+1. Open your Terminal.app in Applications > Utilities.
 2. Paste the following command and press enter:
-	`git clone git://github.com/sillyleo/FT-Writer.git ~/Library/Containers/com.foldingtext.FoldingText/Data/Library/Application Support/FoldingText/Themes/`
-3. Restart FoldingText
+    git clone git://github.com/sillyleo/FT-Writer.git ~/Library/Containers/com.foldingtext.FoldingText/Data/Library/Application Support/FoldingText/Themes/User.fttheme
+4. Restart FoldingText
 
 # Uninstall
 
 1. In Finder, press `command + shift + g`, paste the following path and press enter:
-	`~/Library/Containers/com.foldingtext.FoldingText/Data/Library/Application Support/FoldingText/Themes/`
-2. Remove the `User.fttheme` folder.
+    ~/Library/Containers/com.foldingtext.FoldingText/Data/Library/Application Support/FoldingText/Themes/
+3. Remove the `User.fttheme` folder.
 
 # Enable Nitti Mode
 
 1. Purchase Nitti
 2. In Finder, press `command + shift + g`, paste the following path and press enter:
-	`~/Library/Containers/com.foldingtext.FoldingText/Data/Library/Application Support/FoldingText/Themes/`
+    ~/Library/Containers/com.foldingtext.FoldingText/Data/Library/Application Support/FoldingText/Themes/
 3. Rename `style.css` into something like `style-cousine.css` and rename `style-nitti.css` into `style.css`
 4. Restart FoldingText
 
