@@ -37,7 +37,7 @@ Nitti is a commercial font which can be [purchased here](http://www.boldmonday.c
 
 1. Open your Terminal.app in Applications > Utilities.
 2. Paste the following command and press enter:
-	`git clone git://github.com/sillyleo/FT-Writer.git ~/Library/Containers/com.foldingtext.FoldingText/Data/Library/Application\ Support/FoldingText/Themes/User.fttheme`
+	> git clone git://github.com/sillyleo/FT-Writer.git ~/Library/Containers/com.foldingtext.FoldingText/Data/Library/Application\ Support/FoldingText/Themes/User.fttheme
 3. Restart FoldingText
 
 ## Update
