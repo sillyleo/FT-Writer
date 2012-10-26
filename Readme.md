@@ -17,6 +17,8 @@ Now you can shrink the window to focus on to-dos!
 
 ![to-do](http://d.pr/i/wesW+)
 
+<iframe src="http://player.vimeo.com/video/52207488?badge=0" width="500" height="259" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/52207488">FT Writer 1.1</a> from <a href="http://vimeo.com/user705986">Leo Lin</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+
 [Watch Video](http://d.pr/v/5IXX)
 
 ## Cousine
