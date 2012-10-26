@@ -11,13 +11,11 @@ FT Writer is a [FoldingText](http://www.foldingtext.com) theme based on [iA Writ
 
 FoldingText is a clever text productivity app, and iA Writer is the most beautiful one. I made a theme that makes FoldingText look like iA Writer
 
-## Focus Mode
+## Focus Mode (new in 1.1)
 
 Now you can shrink the window to focus on to-dos!
 
-<video width="100%" controls="controls">
-  <source src="http://d.pr/v/5IXX+" type="video/mp4">
-</video>
+![to-do](http://d.pr/i/wesW+)
 
 [Watch Video](http://d.pr/v/5IXX)
 
