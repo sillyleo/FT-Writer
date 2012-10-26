@@ -12,13 +12,13 @@ FoldingText is a clever text productivity app, and iA Writer is the most beautif
 
 ## Cousine Mode
 
-![Cousine Mode](http://d.pr/i/YO2P+)
+![Cousine Mode](http://d.pr/i/czU5+)
 
 FT Writer uses the **Cousine** as default. It's [available from Google](). 
 
 ## Nitti Mode
 
-![Nitti Mode](http://d.pr/i/YO2P+)
+![Nitti Mode](http://d.pr/i/buUo+)
 
 Nitti is a commercial font which can be [purchased here](http://www.boldmonday.com/en/nitti) (Buy Nitti Light). If you have **Nitti** installed you can enable **Nitti-mode**.
 
