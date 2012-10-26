@@ -35,6 +35,15 @@ Nitti is a commercial font which can be [purchased here](http://www.boldmonday.c
 
 ## Install
 
+
+1. [Download User.fttheme](https://github.com/sillyleo/FT-Writer/zipball/master)
+2. In Finder, press `command + shift + g`, paste the following path and press enter:
+	~/Library/Containers/com.foldingtext.FoldingText/Data/Library/Application Support/FoldingText/Themes/
+3. Move the `User.fttheme` into Themes folder.
+4. Restart FoldingText.
+
+## Install with Git
+
 1. Open your Terminal.app in Applications > Utilities.
 2. Paste the following command and press enter:
 	git clone git://github.com/sillyleo/FT-Writer.git ~/Library/Containers/com.foldingtext.FoldingText/Data/Library/Application\ Support/FoldingText/Themes/User.fttheme
