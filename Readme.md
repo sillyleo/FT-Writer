@@ -1,8 +1,9 @@
-# FT Writer 1.0
+# FT Writer 1.1
 
 FT Writer is a [FoldingText](http://www.foldingtext.com) theme based on [iA Writer](http://www.iawriter.com), featuring:
 
-- **Cousine** or **Nitti** mode
+- **Focus Mode** `new in 1.1`
+- 2 fonts option: **Cousine** or **Nitti** .
 - Fine-tuned line height for both fonts
 - Looks like iA Writer (duh)
 - Subtle CSS animation
@@ -10,13 +11,24 @@ FT Writer is a [FoldingText](http://www.foldingtext.com) theme based on [iA Writ
 
 FoldingText is a clever text productivity app, and iA Writer is the most beautiful one. I made a theme that makes FoldingText look like iA Writer
 
-## Cousine Mode
+## Focus Mode
+
+Now you can shrink the window to focus on to-dos!
+
+<video width="100%" controls="controls">
+  <source src="http://d.pr/v/5IXX+" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+[View Video](http://d.pr/v/5IXX+)
+
+## Cousine
 
 ![Cousine Mode](http://d.pr/i/czU5+)
 
 FT Writer uses the **Cousine** as default. It's [available from Google](). 
 
-## Nitti Mode
+## Nitti
 
 ![Nitti Mode](http://d.pr/i/buUo+)
 
@@ -36,6 +48,8 @@ Nitti is a commercial font which can be [purchased here](http://www.boldmonday.c
 	`cd ~/Library/Containers/com.foldingtext.FoldingText/Data/Library/Application\ Support/FoldingText/Themes/User.fttheme`
 3. And then `git pull`
 4. Restart FoldingText
+
+**Note**: After updating, your Nitti will be overridden, you'll need to rename your CSS again.
 
 ## Uninstall
 
