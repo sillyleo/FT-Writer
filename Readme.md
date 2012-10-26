@@ -17,10 +17,9 @@ Now you can shrink the window to focus on to-dos!
 
 <video width="100%" controls="controls">
   <source src="http://d.pr/v/5IXX+" type="video/mp4">
-  Your browser does not support the video tag.
 </video>
 
-[View Video](http://d.pr/v/5IXX+)
+[Watch Video](http://d.pr/v/5IXX)
 
 ## Cousine
 
