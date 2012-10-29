@@ -7,7 +7,7 @@
   body .unordered.todoMode {
     display: inline;
   }
-   div[done].unordered.todoMode span[class~="tags"], .unordered {
+   div[done].unordered.todoMode span[class~="tags"], .unordered, .ordered {
     display: none;
   }
   div[done].unordered.todoMode span[class~="text"] {
@@ -39,6 +39,7 @@
   	font-size: 19px; 
   }
 }
+
 
 
 
