@@ -33,31 +33,14 @@ FT Writer uses the **Cousine** as default. It's [available from Google]().
 
 Nitti is a commercial font which can be [purchased here](http://www.boldmonday.com/en/nitti) (Buy Nitti Light). If you have **Nitti** installed you can enable **Nitti-mode**.
 
-## Install
+## Install or Upgrade
 
 
 1. [Download User.fttheme](https://github.com/sillyleo/FT-Writer/zipball/master)
 2. In Finder, press `command + shift + g`, paste the following path and press enter:
 	~/Library/Containers/com.foldingtext.FoldingText/Data/Library/Application Support/FoldingText/Themes/
-3. Move the `User.fttheme` into Themes folder.
+3. Move the `User.fttheme` into Themes folder (over write the old version if you have one).
 4. Restart FoldingText.
-
-## Install with Git
-
-1. Open your Terminal.app in Applications > Utilities.
-2. Paste the following command and press enter:
-	git clone git://github.com/sillyleo/FT-Writer.git ~/Library/Containers/com.foldingtext.FoldingText/Data/Library/Application\ Support/FoldingText/Themes/User.fttheme
-3. Restart FoldingText
-
-## Update
-
-1. Open your Terminal.app in Applications > Utilities.
-2. Paste the following command and press enter:
-	cd ~/Library/Containers/com.foldingtext.FoldingText/Data/Library/Application\ Support/FoldingText/Themes/User.fttheme
-3. And then `git pull`
-4. Restart FoldingText
-
-**Note**: After updating, your Nitti will be overridden, you'll need to rename your CSS again.
 
 ## Uninstall
 
