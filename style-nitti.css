@@ -1,45 +1,5 @@
 /* Github Nitti */
 
-/* Focus Mode */
-
-
-@media screen and (max-width: 550px) {
-  body .unordered.todoMode {
-    display: inline;
-  }
-   div[done].unordered.todoMode span[class~="tags"], .unordered, .ordered {
-    display: none;
-  }
-  div[done].unordered.todoMode span[class~="text"] {
-    opacity: 0.6;
-/*     -webkit-filter: blur(1.5px); */
-  }
-/*
-  div[done].unordered.todoMode {
-    visibility: hidden;
-    height: 0;
-    display: block;
-    width: 0;
-    overflow: hidden;
-  }
-*/
-  .heading, .empty, .body/* , .tags */ {
-    visibility: hidden;
-    height: 0;
-    overflow: hidden;
-  }
-  .tabs {
-    display: none;
-    visibility: hidden;
-    height: 0;
-    width: 0;
-    overflow: hidden;
-  }
-  html body {
-  	font-size: 19px; 
-  }
-}
-
 
 
 /* Nitti Version */
@@ -53,7 +13,7 @@ body {
 }
 
 body .heading {
-  letter-spacing: -0.1em;
+  letter-spacing: -0.05em;
 	font-family:  "Nitti", "Cousine", Courier, "Heiti TC", monospace;
   font-style: Light;
   font-weight: bold;

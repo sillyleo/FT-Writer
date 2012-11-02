@@ -1,6 +1,7 @@
 /* Github Cousine */
 
 /* Focus Mode */
+/*
 
 
 @media screen and (max-width: 550px) {
@@ -12,9 +13,7 @@
   }
   div[done].unordered.todoMode span[class~="text"] {
     opacity: 0.6;
-/*     -webkit-filter: blur(1.5px); */
   }
-/*
   div[done].unordered.todoMode {
     visibility: hidden;
     height: 0;
@@ -22,8 +21,7 @@
     width: 0;
     overflow: hidden;
   }
-*/
-  .heading, .empty, .body/* , .tags */ {
+  .heading, .empty, .body {
     visibility: hidden;
     height: 0;
     overflow: hidden;
@@ -41,6 +39,7 @@
 }
 
 
+*/
 
 
 /* Nitti Version */
