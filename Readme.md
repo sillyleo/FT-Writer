@@ -1,8 +1,8 @@
-# FT Writer 1.1.1
+# FT Writer 1.1.2
 
 FT Writer is a [FoldingText](http://www.foldingtext.com) theme based on [iA Writer](http://www.iawriter.com), featuring:
 
-- **Focus Mode** `new in 1.1`
+- Removed **Focus Mode** in 1.1.2
 - 2 fonts option: **Cousine** or **Nitti**.
 - Fine-tuned line height for both fonts
 - Looks like iA Writer (duh)
@@ -11,7 +11,7 @@ FT Writer is a [FoldingText](http://www.foldingtext.com) theme based on [iA Writ
 
 FoldingText is a clever text productivity app, and iA Writer is the most beautiful one. I made a theme that makes FoldingText look like iA Writer
 
-## Focus Mode (new in 1.1)
+## Focus Mode (temporarily removed)
 
 Now you can shrink the window to focus on to-dos!
 
